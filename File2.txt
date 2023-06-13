@@ -1,5 +1,6 @@
 File no 2
 
+<<<<<<< HEAD
 New fature added by Mihir
 asd
 consoleasdc
@@ -25,3 +26,27 @@ consoleasdccasdc
 sdc
 addeddc
 d
+=======
+c
+asdc
+sdca
+sdcasd
+sd
+v
+sdv
+sdca
+New fature added by Mihir
+
+again chagnes added
+
+jsdjsdcndscsd
+csd
+csdc
+sdcasadc
+asdcc
+sdcasadcsad
+chagnesasdv
+sdvadsv
+dsv
+dsvasdv
+>>>>>>> 070d30d85ffe632c6181be503ba2d12ff8923ee3
