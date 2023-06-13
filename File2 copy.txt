@@ -3,6 +3,19 @@ File no 2
 New fature added by Mihir
 asd
 consoleasdc
+
+
+decodeURIadc
+AudioScheduledSourceNodeasc
+SVGFEDisplacementMapElementas
+decodeURIasdc
+addEventListenercasdecodeURIadc
+AudioScheduledSourceNodeasc
+SVGFEDisplacementMapElementas
+decodeURIasdc
+addEventListenercas
+
+
 asdcsa
 consoleasdccas
 consoleasdccasdc
